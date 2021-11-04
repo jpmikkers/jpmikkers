@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## 1. GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jpmikkers&show_icons=true)
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmikkers&theme=blue-green)
+
 <!--
 **jpmikkers/jpmikkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
